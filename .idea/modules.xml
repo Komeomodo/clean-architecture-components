@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clean-architecture-components-boilerplate.iml" filepath="$PROJECT_DIR$/.idea/modules/clean-architecture-components-boilerplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache/clean-architecture-components-boilerplate.cache.iml" filepath="$PROJECT_DIR$/.idea/modules/cache/clean-architecture-components-boilerplate.cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/clean-architecture-components-boilerplate.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/clean-architecture-components-boilerplate.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/clean-architecture-components-boilerplate.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/clean-architecture-components-boilerplate.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile-ui/clean-architecture-components-boilerplate.mobile-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile-ui/clean-architecture-components-boilerplate.mobile-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/clean-architecture-components-boilerplate.presentation.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/clean-architecture-components-boilerplate.presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remote/clean-architecture-components-boilerplate.remote.iml" filepath="$PROJECT_DIR$/.idea/modules/remote/clean-architecture-components-boilerplate.remote.iml" />
+    </modules>
+  </component>
+</project>

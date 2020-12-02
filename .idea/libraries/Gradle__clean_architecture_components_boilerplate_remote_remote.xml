@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: clean-architecture-components-boilerplate.remote.remote">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/remote/build/libs/remote.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
