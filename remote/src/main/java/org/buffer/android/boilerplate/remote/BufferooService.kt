@@ -12,6 +12,10 @@ interface BufferooService {
     @GET("users")
     fun getBufferoos(): Flowable<List<BufferooModel>>
 
+    @GET("users/{user}")
+    fun getBufferoo(): Flowable<BufferooModel>
+
+
     class BufferooResponse {
         lateinit var team: List<BufferooModel>
     }

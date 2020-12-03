@@ -11,7 +11,29 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c49faeb2-5a33-453c-9823-d7eb52a96ab9" name="Default Changelist" comment="" />
+    <list default="true" id="c49faeb2-5a33-453c-9823-d7eb52a96ab9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_8_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/data/clean-architecture-components-boilerplate.data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/data/clean-architecture-components-boilerplate.data.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/mobile-ui/clean-architecture-components-boilerplate.mobile-ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/mobile-ui/clean-architecture-components-boilerplate.mobile-ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/data/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/org/buffer/android/boilerplate/data/model/BufferooEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/org/buffer/android/boilerplate/data/model/BufferooEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile-ui/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/mobile-ui/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile-ui/src/main/res/layout/item_bufferoo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mobile-ui/src/main/res/layout/item_bufferoo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remote/build/libs/remote.jar" beforeDir="false" afterPath="$PROJECT_DIR$/remote/build/libs/remote.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remote/src/main/java/org/buffer/android/boilerplate/remote/BufferooService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/remote/src/main/java/org/buffer/android/boilerplate/remote/BufferooService.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +56,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -117,7 +140,19 @@
       <option name="presentableId" value="Default" />
       <updated>1606812752740</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1606947721370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606947721371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="245" y="189" key="#PSD" timestamp="1606826658003">
@@ -128,25 +163,29 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="441" y="291" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1606830324646" />
-    <state x="473" y="354" width="493" height="264" key="Github.ShareDialog" timestamp="1606947472828">
+    <state x="34" y="34" key="CommitChangelistDialog2" timestamp="1606947718846">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="473" y="354" width="493" height="264" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1606947472828" />
-    <state width="1396" height="235" key="GridCell.Tab.0.bottom" timestamp="1606942711685">
+    <state x="34" y="34" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1606947718846" />
+    <state x="473" y="354" width="493" height="264" key="Github.ShareDialog" timestamp="1606947747944">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606942711685" />
-    <state width="1396" height="235" key="GridCell.Tab.0.center" timestamp="1606942711684">
+    <state x="473" y="354" width="493" height="264" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1606947747944" />
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom" timestamp="1606955518551">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606942711684" />
-    <state width="1396" height="235" key="GridCell.Tab.0.left" timestamp="1606942711683">
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606955518551" />
+    <state width="1396" height="245" key="GridCell.Tab.0.center" timestamp="1606955518550">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606942711683" />
-    <state width="1396" height="235" key="GridCell.Tab.0.right" timestamp="1606942711685">
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606955518550" />
+    <state width="1396" height="245" key="GridCell.Tab.0.left" timestamp="1606955518549">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606942711685" />
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606955518549" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right" timestamp="1606955518550">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606955518550" />
   </component>
 </project>

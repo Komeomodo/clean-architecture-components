@@ -1,5 +1,7 @@
 package org.buffer.android.boilerplate.data.model
 
+import com.google.gson.annotations.SerializedName
+
 /**
  * Representation for a [BufferooEntity] fetched from an external layer data source
  */
